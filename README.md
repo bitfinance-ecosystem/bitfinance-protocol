@@ -1,4 +1,4 @@
-# Harmony
+# BitFinance Protocol based of Harmony One
 
 [![Build Status](https://travis-ci.com/harmony-one/harmony.svg?branch=main)](https://travis-ci.com/harmony-one/harmony)
 ![gopherbadger-tag-do-not-edit](https://img.shields.io/badge/Go%20Coverage-45%25-brightgreen.svg?longCache=true&style=flat)
